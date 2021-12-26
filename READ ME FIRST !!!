@@ -1,0 +1,15 @@
+Hello, dear students hope you doing great, First i'd like to say thank you and if you need my any help i'll be there.
+You can contact me on Facebook : http://www.facebook.com/aizaz.dinho
+
+========IMPORTANT NOTE===========
+First you'll need to create databases for this course project, by watching the lectures our just contact me.
+Secondly your review is valueble for other students to choose this course, so please do write review for this course on
+Udemy. And if you get struck message me right away and i'll reply in no time.
+
+Make sure to add your mysql user,db pass in connection.php file, and if you are not using localhost then replace the domain path from init.php and all ajax files with your domain name. And in your tweet class, look for getTweetLinks method and it's urls to your domain url.
+
+Thank you -- Your teacher Aizaz
+
+Website: www.meralesson.com
+Twitter: www.twitter.com/aizazdinho
+Course:  https://www.udemy.com/create-a-high-end-social-network-like-twitter-in-php-mysql
